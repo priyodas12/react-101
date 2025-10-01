@@ -1,0 +1,14 @@
+
+
+#increment-btn {
+    background-color: rgb(138, 233, 138);
+
+}
+
+#decrement-btn {
+    background-color: rgb(243, 147, 117)
+}
+
+#counter-context {
+    justify-content: center;
+}

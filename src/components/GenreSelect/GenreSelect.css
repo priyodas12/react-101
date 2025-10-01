@@ -1,0 +1,9 @@
+.active-genre {
+    color: rgb(236, 227, 211);
+    background-color: rgb(42, 120, 165);
+}
+
+.inactive-genre {
+    color: rgb(236, 227, 211);
+    background-color: rgb(93, 181, 240);
+}

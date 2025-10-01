@@ -1,0 +1,12 @@
+#search-btn {
+    background-color: rgb(138, 233, 138);
+}
+
+#input-search {
+    width: 500px;
+    height: 30px;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: larger;
+}
