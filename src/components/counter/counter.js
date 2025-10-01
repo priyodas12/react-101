@@ -27,7 +27,7 @@ function Counter() {
     return React.createElement("div",
         {
             className: "counter-container",
-            ey: "counter-container"
+            key: "counter-container"
         },
         [counterContextEl, incrementBtn, decrementBtn])
 }
