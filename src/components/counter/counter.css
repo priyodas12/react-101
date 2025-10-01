@@ -1,0 +1,28 @@
+.counter-container {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#increment-btn {
+    background-color: rgb(138, 233, 138);
+
+}
+
+#decrement-btn {
+    background-color: rgb(243, 147, 117)
+}
+
+button {
+    width: 200px;
+    padding: 10px;
+    margin: 5px;
+    font-size: larger;
+
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#counter-context {
+    justify-content: center;
+}
